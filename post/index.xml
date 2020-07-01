@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome</title>
-    <link>https://emuci.top/</link>
-    <description>Recent content on Welcome</description>
+    <title>Posts on Welcome</title>
+    <link>https://emuci.top/post/</link>
+    <description>Recent content in Posts on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jul 2020 21:43:52 +0800</lastBuildDate>
     
-	<atom:link href="https://emuci.top/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emuci.top/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,35 +23,6 @@
 在里面找到需要国际化的 key 的值，比如我现在设置不同语言下的 App 名称，info.plist 中的 CFBundleName 就是我需要 key
 按下面两张图片的填写要翻译的内容，必须用分号结束
 最终效果</description>
-    </item>
-    
-    <item>
-      <title>Baksi</title>
-      <link>https://emuci.top/portfolio/baksi/</link>
-      <pubDate>Mon, 29 Jun 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://emuci.top/portfolio/baksi/</guid>
-      <description>Baksi is a Manchu-Chinese dictionary.
-Feedback</description>
-    </item>
-    
-    <item>
-      <title>Eye Alarm</title>
-      <link>https://emuci.top/portfolio/eyealarm/</link>
-      <pubDate>Mon, 29 Jun 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://emuci.top/portfolio/eyealarm/</guid>
-      <description>Eye Alarm is a 20 20 20 rule timing App.
-Feedback</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://emuci.top/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emuci.top/contact/</guid>
-      <description>E-Mail: emuci@outlook.com</description>
     </item>
     
   </channel>
