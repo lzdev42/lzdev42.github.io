@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Welcome</title>
-    <link>https://emuci.top/post/</link>
+    <link>https://emuci.top/posts/</link>
     <description>Recent content in Posts on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jul 2020 21:43:52 +0800</lastBuildDate>
     
-	<atom:link href="https://emuci.top/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emuci.top/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何国际化info</title>
-      <link>https://emuci.top/post/%E5%A6%82%E4%BD%95%E5%9B%BD%E9%99%85%E5%8C%96info.plist/</link>
+      <link>https://emuci.top/posts/%E5%A6%82%E4%BD%95%E5%9B%BD%E9%99%85%E5%8C%96info.plist/</link>
       <pubDate>Wed, 01 Jul 2020 21:43:52 +0800</pubDate>
       
-      <guid>https://emuci.top/post/%E5%A6%82%E4%BD%95%E5%9B%BD%E9%99%85%E5%8C%96info.plist/</guid>
+      <guid>https://emuci.top/posts/%E5%A6%82%E4%BD%95%E5%9B%BD%E9%99%85%E5%8C%96info.plist/</guid>
       <description>创建一个Strings File，并且这个文件必须命名为infoPlist.strings在项目中增加语言
 选中 infoPlist.strings 文件，点右边的 Localize，增加你想要翻译的语言
 选中 info.plst ，点击鼠标右键，选择Open As Source Code
