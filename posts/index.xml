@@ -17,7 +17,7 @@
       <pubDate>Wed, 01 Jul 2020 21:43:52 +0800</pubDate>
       
       <guid>https://emuci.top/posts/info.plist-%E5%9B%BD%E9%99%85%E5%8C%96/</guid>
-      <description>创建一个Strings File，并且这个文件必须命名为infoPlist.strings在项目中增加语言
+      <description>创建一个Strings File，并且这个文件必须命名为InfoPlist.strings在项目中增加语言
 选中 infoPlist.strings 文件，点右边的 Localize，增加你想要翻译的语言
 选中 info.plst ，点击鼠标右键，选择Open As Source Code
 在里面找到需要国际化的 key 的值，比如我现在设置不同语言下的 App 名称，info.plist 中的 CFBundleName 就是我需要 key
