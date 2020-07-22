@@ -6,10 +6,21 @@
     <description>Recent content on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2020 21:43:52 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 16:06:38 +0800</lastBuildDate>
     
 	<atom:link href="https://emuci.top/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何实现iOS13中的默认模态弹出效果</title>
+      <link>https://emuci.top/posts/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0ios13%E4%B8%AD%E7%9A%84%E9%BB%98%E8%AE%A4%E6%A8%A1%E6%80%81%E5%BC%B9%E5%87%BA%E6%95%88%E6%9E%9C/</link>
+      <pubDate>Wed, 22 Jul 2020 16:06:38 +0800</pubDate>
+      
+      <guid>https://emuci.top/posts/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0ios13%E4%B8%AD%E7%9A%84%E9%BB%98%E8%AE%A4%E6%A8%A1%E6%80%81%E5%BC%B9%E5%87%BA%E6%95%88%E6%9E%9C/</guid>
+      <description>先上demo代码: 仓库地址
+今天在 Telegram 的 iOS 交流群中看到有朋友问如何自定义实现 iOS 13 中那种默认的模态弹出效果，如下图这样:
+实现方式非常简单，核心是将弹出视图的 modalPresentationStyle 设置为 .overFullScreen ，并在将底部视图拉到顶部的时候，缩放背景视图，实现效果如下图:</description>
+    </item>
     
     <item>
       <title>info.plist 国际化</title>
