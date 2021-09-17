@@ -6,7 +6,7 @@
 
 ## 如果您不知道如何操作，请参阅 官方Github文档 https://github.com/Dreamacro/clash/blob/dev/README.md
 #---------------------------------------------------#
-ipv6: true
+# ipv6: true
 # (HTTP and SOCKS5 in one port)
 mixed-port: 7890
 # RESTful API for clash
@@ -92,18 +92,6 @@ proxies:
 - { name: "加速CDN2",
     type: vmess,
     server: 13.113.13.89,
-    port: 443,
-    uuid: "73c5c704-e226-4743-baa3-6d3bbb95b9a0",
-    alterId: 100,
-    cipher: aes-128-gcm,
-    network: ws,
-    ws-path: /50ead0adec99/,
-    ws-headers: { Host: emuci.top,User-Agent: Mozilla/5.0 (iOS) Nextcloud-iOS/2.24.1 },
-    tls: true
-  }
-- { name: "US",
-    type: vmess,
-    server: 54.184.146.108,
     port: 443,
     uuid: "73c5c704-e226-4743-baa3-6d3bbb95b9a0",
     alterId: 100,
