@@ -119,6 +119,26 @@ proxy-groups:
 # - { name: "Proxy", type: url-test, proxies: ["东京","俄勒冈","AWS-Auto","AWS-1001","AWS-104.19.243.86","AWS-104.16.152.86","104.16.160.8"], url: "https://www.google.com", interval: 300 }
 #- { name: "Proxy", type: url-test, proxies: ["美国"], url: "https://www.google.com", interval: 300 }
 rules:
+# Netflix
+
+- DOMAIN-SUFFIX,netflix.com,Proxy
+- DOMAIN-SUFFIX,netflix.net,Proxy
+- DOMAIN-SUFFIX,nflxext.com,Proxy
+- DOMAIN-SUFFIX,nflximg.com,Proxy
+- DOMAIN-SUFFIX,nflximg.net,Proxy
+- DOMAIN-SUFFIX,nflxso.net,Proxy
+- DOMAIN-SUFFIX,nflxvideo.net,Proxy
+- DOMAIN-SUFFIX,netflixdnstest0.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest1.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest2.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest3.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest4.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest5.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest6.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest7.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest8.com,Proxy
+- DOMAIN-SUFFIX,netflixdnstest9.com,Proxy
+
 - DOMAIN,emuci.top,DIRECT
 - DOMAIN-SUFFIX,bing.com,DIRECT
 # Apple
