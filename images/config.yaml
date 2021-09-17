@@ -120,6 +120,7 @@ proxy-groups:
 #- { name: "Proxy", type: url-test, proxies: ["美国"], url: "https://www.google.com", interval: 300 }
 rules:
 # Netflix
+- DOMAIN-SUFFIX,bugsnag.com,Proxy
 
 - DOMAIN-SUFFIX,netflix.com,Proxy
 - DOMAIN-SUFFIX,netflix.net,Proxy
