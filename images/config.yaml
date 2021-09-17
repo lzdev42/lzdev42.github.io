@@ -101,6 +101,18 @@ proxies:
     ws-headers: { Host: emuci.top,User-Agent: Mozilla/5.0 (iOS) Nextcloud-iOS/2.24.1 },
     tls: true
   }
+- { name: "US",
+    type: vmess,
+    server: 54.184.146.108,
+    port: 443,
+    uuid: "73c5c704-e226-4743-baa3-6d3bbb95b9a0",
+    alterId: 100,
+    cipher: aes-128-gcm,
+    network: ws,
+    ws-path: /50ead0adec99/,
+    ws-headers: { Host: emuci.top,User-Agent: Mozilla/5.0 (iOS) Nextcloud-iOS/2.24.1 },
+    tls: true
+  }
 
 proxy-groups:
  - { name: "Proxy", type: url-test, proxies: ["主服务器CDN","加速CDN1","加速CDN2","US"], url: "https://www.google.com", interval: 300 }
