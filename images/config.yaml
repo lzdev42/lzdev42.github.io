@@ -150,12 +150,12 @@ rules:
 - DOMAIN-SUFFIX,icloud-content.com,Proxy
 - DOMAIN-SUFFIX,me.com,DIRECT
 - DOMAIN-SUFFIX,mzstatic.com,Proxy
-- DOMAIN-SUFFIX,akadns.net,DIRECT
-- DOMAIN-SUFFIX,aaplimg.com,DIRECT
+- DOMAIN-SUFFIX,akadns.net,Proxy
+- DOMAIN-SUFFIX,aaplimg.com,Proxy
 - DOMAIN-SUFFIX,cdn-apple.com,Proxy
 - DOMAIN-SUFFIX,apple.com,Proxy
 - DOMAIN-SUFFIX,apple-cloudkit.com,Proxy
-- DOMAIN,hls.itunes.apple.com,DIRECT
+- DOMAIN,hls.itunes.apple.com,Proxy
 
 #coursera.org
 - DOMAIN,coursera.org,Proxy
