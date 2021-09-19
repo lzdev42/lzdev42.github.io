@@ -155,7 +155,7 @@ rules:
 - DOMAIN-SUFFIX,cdn-apple.com,DIRECT
 - DOMAIN-SUFFIX,apple.com,Proxy
 - DOMAIN-SUFFIX,apple-cloudkit.com,Proxy
-- DOMAIN,hls.itunes.apple.com,DIRECT
+- DOMAIN,hls.itunes.apple.com,Proxy
 
 #coursera.org
 - DOMAIN,coursera.org,Proxy
