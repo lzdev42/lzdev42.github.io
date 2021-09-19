@@ -144,17 +144,17 @@ rules:
 - DOMAIN-SUFFIX,bing.com,DIRECT
 # Apple
 - DOMAIN-SUFFIX,emuci.top,DIRECT
-- DOMAIN-SUFFIX,apps.apple.com,Proxy
-- DOMAIN-SUFFIX,music.apple.com,Proxy
-- DOMAIN-SUFFIX,icloud.com,Proxy
-- DOMAIN-SUFFIX,icloud-content.com,Proxy
-- DOMAIN-SUFFIX,me.com,Proxy
+- DOMAIN-SUFFIX,apps.apple.com,DIRECT
+- DOMAIN-SUFFIX,music.apple.com,DIRECT
+- DOMAIN-SUFFIX,icloud.com,DIRECT
+- DOMAIN-SUFFIX,icloud-content.com,DIRECT
+- DOMAIN-SUFFIX,me.com,DIRECT
 - DOMAIN-SUFFIX,mzstatic.com,Proxy
-- DOMAIN-SUFFIX,akadns.net,Proxy
-- DOMAIN-SUFFIX,aaplimg.com,Proxy
-- DOMAIN-SUFFIX,cdn-apple.com,Proxy
-- DOMAIN-SUFFIX,apple.com,Proxy
-- DOMAIN-SUFFIX,apple-cloudkit.com,Proxy
+- DOMAIN-SUFFIX,akadns.net,DIRECT
+- DOMAIN-SUFFIX,aaplimg.com,DIRECT
+- DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+- DOMAIN-SUFFIX,apple.com,DIRECT
+- DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
 - DOMAIN,hls.itunes.apple.com,Proxy
 
 #coursera.org
