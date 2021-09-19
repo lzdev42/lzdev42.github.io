@@ -146,15 +146,15 @@ rules:
 - DOMAIN-SUFFIX,emuci.top,DIRECT
 - DOMAIN-SUFFIX,apps.apple.com,Proxy
 - DOMAIN-SUFFIX,music.apple.com,DIRECT
-- DOMAIN-SUFFIX,icloud.com,DIRECT
-- DOMAIN-SUFFIX,icloud-content.com,DIRECT
+- DOMAIN-SUFFIX,icloud.com,Proxy
+- DOMAIN-SUFFIX,icloud-content.com,Proxy
 - DOMAIN-SUFFIX,me.com,DIRECT
 - DOMAIN-SUFFIX,mzstatic.com,DIRECT
 - DOMAIN-SUFFIX,akadns.net,DIRECT
 - DOMAIN-SUFFIX,aaplimg.com,DIRECT
 - DOMAIN-SUFFIX,cdn-apple.com,DIRECT
-- DOMAIN-SUFFIX,apple.com,DIRECT
-- DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
+- DOMAIN-SUFFIX,apple.com,Proxy
+- DOMAIN-SUFFIX,apple-cloudkit.com,Proxy
 - DOMAIN,hls.itunes.apple.com,DIRECT
 
 #coursera.org
