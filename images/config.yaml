@@ -156,6 +156,35 @@ rules:
 - DOMAIN-SUFFIX,apple.com,Proxy
 - DOMAIN-SUFFIX,apple-cloudkit.com,Proxy
 - DOMAIN,hls.itunes.apple.com,Proxy
+- DOMAIN,developer.apple.com,Proxy
+- DOMAIN-SUFFIX,digicert.com,Proxy
+- PROCESS-NAME,trustd,Proxy
+- DOMAIN-SUFFIX,apple-dns.net,Proxy
+- DOMAIN,testflight.apple.com,Proxy
+- DOMAIN,sandbox.itunes.apple.com,Proxy
+- DOMAIN,itunes.apple.com,Proxy
+- DOMAIN-SUFFIX,apps.apple.com,Proxy
+- DOMAIN-SUFFIX,blobstore.apple.com,Proxy
+- DOMAIN,cvws.icloud-content.com,Proxy
+
+- DOMAIN,safebrowsing.urlsec.qq.com,Proxy
+- DOMAIN,safebrowsing.googleapis.com,Proxy
+- DOMAIN-SUFFIX,mzstatic.com,Proxy
+- DOMAIN-SUFFIX,itunes.apple.com,Proxy
+- DOMAIN-SUFFIX,icloud.com,Proxy
+- DOMAIN-SUFFIX,icloud-content.com,Proxy
+- DOMAIN-SUFFIX,me.com,Proxy
+- DOMAIN-SUFFIX,aaplimg.com,Proxy
+- DOMAIN-SUFFIX,cdn20.com,Proxy
+- DOMAIN-SUFFIX,cdn-apple.com,Proxy
+- DOMAIN-SUFFIX,akadns.net,Proxy
+- DOMAIN-SUFFIX,akamaiedge.net,Proxy
+- DOMAIN-SUFFIX,edgekey.net,Proxy
+- DOMAIN-SUFFIX,mwcloudcdn.com,Proxy
+- DOMAIN-SUFFIX,mwcname.com,Proxy
+- DOMAIN-SUFFIX,apple.com,Proxy
+- DOMAIN-SUFFIX,apple-cloudkit.com,Proxy
+- DOMAIN-SUFFIX,apple-mapkit.com,Proxy
 
 #coursera.org
 - DOMAIN,coursera.org,Proxy
