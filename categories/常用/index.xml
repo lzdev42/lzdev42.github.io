@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>常用 on Home</title>
+    <link>https://emuci.top/categories/%E5%B8%B8%E7%94%A8/</link>
+    <description>Recent content in 常用 on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Sep 2021 14:18:47 +0800</lastBuildDate><atom:link href="https://emuci.top/categories/%E5%B8%B8%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu/Debian Server 修改DNS</title>
+      <link>https://emuci.top/posts/linux%E4%BF%AE%E6%94%B9dns/</link>
+      <pubDate>Mon, 27 Sep 2021 14:18:47 +0800</pubDate>
+      
+      <guid>https://emuci.top/posts/linux%E4%BF%AE%E6%94%B9dns/</guid>
+      <description>sudo apt install resolvconf sudo systemctl enable --now resolvconf.service 令以后，修改 /etc/resolvconf/resolv.conf.d/head 文件的内容，格式如下:
+nameserver 1.1.1.1 nameserver 2606:4700:4700::1111 </description>
+    </item>
+    
+    <item>
+      <title>MacOS系统中给git设置代理</title>
+      <link>https://emuci.top/posts/macos%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%BB%99git%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86/</link>
+      <pubDate>Mon, 27 Sep 2021 10:44:11 +0800</pubDate>
+      
+      <guid>https://emuci.top/posts/macos%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%BB%99git%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86/</guid>
+      <description>直接修改git全局设置，路径是 ~/.gitconfig ，将自己的代理地址填到文件里：
+[http] proxy = socks5://127.0.0.1:1080 [https] proxy = socks5://127.0.0.1:1080 代理IP和端口根据自己情况填就可以，也可以是http代理</description>
+    </item>
+    
+  </channel>
+</rss>

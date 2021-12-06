@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Home</title>
+    <link>https://emuci.top/tags/</link>
+    <description>Recent content in Tags on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Oct 2021 16:06:26 +0800</lastBuildDate><atom:link href="https://emuci.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>电子数码</title>
+      <link>https://emuci.top/tags/%E7%94%B5%E5%AD%90%E6%95%B0%E7%A0%81/</link>
+      <pubDate>Thu, 21 Oct 2021 16:06:26 +0800</pubDate>
+      
+      <guid>https://emuci.top/tags/%E7%94%B5%E5%AD%90%E6%95%B0%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS_Dev</title>
+      <link>https://emuci.top/tags/ios_dev/</link>
+      <pubDate>Mon, 27 Sep 2021 14:44:00 +0800</pubDate>
+      
+      <guid>https://emuci.top/tags/ios_dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwiftUI</title>
+      <link>https://emuci.top/tags/swiftui/</link>
+      <pubDate>Mon, 27 Sep 2021 14:44:00 +0800</pubDate>
+      
+      <guid>https://emuci.top/tags/swiftui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://emuci.top/tags/linux/</link>
+      <pubDate>Mon, 27 Sep 2021 14:18:47 +0800</pubDate>
+      
+      <guid>https://emuci.top/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://emuci.top/tags/mac/</link>
+      <pubDate>Mon, 27 Sep 2021 10:44:11 +0800</pubDate>
+      
+      <guid>https://emuci.top/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
